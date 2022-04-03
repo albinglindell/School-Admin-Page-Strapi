@@ -1,0 +1,15 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.StudentCard{
+width: 15;
+border: 1px solid black;
+padding: 2%;
+margin: 2%;
+}
+
+.StudentCard:hover{
+    background-color: whitesmoke;
+    transition: .5s ease;
+}
